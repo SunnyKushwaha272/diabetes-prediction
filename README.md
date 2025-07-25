@@ -54,6 +54,6 @@ Still, scaling is generally good practice with SVM for consistent performance ac
 ## 🚀 Run It Locally
 
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone https://github.com/SunnyKushwaha272/diabetes-prediction.git
 cd diabetes-prediction
 python diabetes_prediction.py
